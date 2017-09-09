@@ -1,0 +1,4 @@
+
+Good explanation of degree-day models:
+
+http://home.comcast.net/~sharov/PopEcol/lec8/tempdev.html

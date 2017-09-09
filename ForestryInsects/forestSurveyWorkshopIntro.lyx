@@ -1,0 +1,360 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass beamer
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Insect Pests Impacting Guam's Forests
+\end_layout
+
+\begin_layout Subtitle
+Forestry Survey Workshop
+\end_layout
+
+\begin_layout Author
+Aubrey Moore
+\end_layout
+
+\begin_layout Date
+August 27, 2013
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setbeamercolor{background canvas}{bg=}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+
+\end_layout
+
+\begin_layout Standard
+One of the penalties of an ecological education is that one lives alone
+ in a world of wounds.
+ Much of the damage inflicted on the land is quite invisible to laymen.
+\end_layout
+
+\begin_layout Standard
+- Aldo Leopold, "Round River" 
+\end_layout
+
+\begin_layout BeginFrame
+Birds Exterminated by Brown Treesnake: Ecosystem Services Lost 
+\end_layout
+
+\begin_layout Itemize
+Accidentally introduced by U.S.
+ Military in late 1940s
+\end_layout
+
+\begin_layout Itemize
+Guam's forest birds are gone because of snake predation
+\end_layout
+
+\begin_layout Itemize
+Ecosystem services provided by birds also gone: seed dispersal, pollination,
+ insectivory
+\end_layout
+
+\begin_layout BeginFrame
+Overbrowsing by Ungulates
+\end_layout
+
+\begin_layout Itemize
+Much of Guam's forest is heavily damaged by deer and pigs which preferentially
+ browse on native plants.
+\end_layout
+
+\begin_layout Itemize
+Especially true on forested land occupied by the military, where hunting
+ is prohibited.
+ Andersen Air Force Base has deer population densities as high as anywhere
+ in the world.
+\end_layout
+
+\begin_layout BeginFrame
+Endemic Cycad Attacked by Asian Cycad Scale
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Cycas micronesica
+\emph default
+ was listed as the most populous tree-sized plant (DBH>5
+\begin_inset Quotes erd
+\end_inset
+
+) in the latest forest survey (
+\begin_inset CommandInset href
+LatexCommand href
+name "Donnegan et al. 2002"
+target "http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Itemize
+Asian cycad scale, 
+\emph on
+Aulacaspis yasumatsui
+\emph default
+, detected in 2003 on ornamental plants
+\end_layout
+
+\begin_layout Itemize
+Infestation quickly spread to wild plants.
+ By 2006, 
+\emph on
+C.
+ micronesica
+\emph default
+ was placed on the IUCN Red List of Threatened Species.
+\end_layout
+
+\begin_layout Itemize
+To date, 90% of Guam's 
+\emph on
+C.
+ micronesica
+\emph default
+ have been killed.
+\end_layout
+
+\begin_layout BeginFrame
+Coconut Palms Attacked by Coconut Rhinoceros Beetle (CRB)
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Cocos nucifera
+\emph default
+ was listed as the 2nd most populous tree-sized plant (DBH>5
+\begin_inset Quotes erd
+\end_inset
+
+) in the latest forest survey (
+\begin_inset CommandInset href
+LatexCommand href
+name "Donnegan et al. 2002"
+target "http://www.fs.fed.us/pnw/pubs/pnw_rb243.pdf"
+
+\end_inset
+
+)
+\end_layout
+
+\begin_layout Itemize
+CRB was detected on Guam in 2007; adults kill palms by boring into the crown
+ to feed on sap
+\end_layout
+
+\begin_layout Itemize
+To date, the CRB infestation has spread to most of central and northern
+ Guam
+\end_layout
+
+\begin_layout Itemize
+50% tree mortality is to be expected if CRB population levels are not kept
+ in check
+\end_layout
+
+\begin_layout BeginFrame
+And Now the Little Fire Ant? ...
+\end_layout
+
+\begin_layout BeginFrame
+Many Invasive Species in Guam's Forests Remain Undetected
+\end_layout
+
+\begin_layout Itemize
+Biological monitoring of Guam's forests is almost non-existent.
+ We don't have a biodiversity inventory.
+\end_layout
+
+\begin_layout Itemize
+Invasive species are almost always discovered accidentally, after establishment.
+\end_layout
+
+\begin_layout Itemize
+Example: After the coffee berry borer (CBB) was discovered in Hawaii, I
+ deployed a single CBB trap during Jan and Feb 2011 at a single site in
+ a forested area on Guam.
+ Trapped bark beetles (Scolytidae) where identified by Dr.
+ Don Bright, Colorado State University.
+\begin_inset Newline newline
+\end_inset
+
+
+\series bold
+This single trap, at a single location, caught 7 species of bark beetles
+ 4 of which were not previously reported from Guam.
+\end_layout
+
+\begin_layout BeginFrame
+Forestry pests which I would look at if I had the time
+\end_layout
+
+\begin_layout Itemize
+katydids
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "atacking Serianthes"
+target "http://guaminsects.myspecies.info/serianthes-nelsonii-saplings-damage-tettigoniid-oviposition"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+termites
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "coconut termite"
+target "http://s2.guaminsects.myspecies.info/gallery?f[0]=im_field_smg_galleries:2450"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+bark beetles
+\end_layout
+
+\begin_layout Itemize
+hemipterans
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+\begin_inset CommandInset href
+LatexCommand href
+name "wax scale"
+target "http://aliens.guaminsects.net/animals/ceroplastes"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+whiteflies
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+leaf gall mite on 
+\shape italic
+Hybiscus
+\shape default
+, similar galls on 
+\shape italic
+Pipturus argenteus
+\end_layout
+
+\begin_layout Itemize
+microleps
+\end_layout
+
+\begin_layout Itemize
+Cuban slugs
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\end_body
+\end_document

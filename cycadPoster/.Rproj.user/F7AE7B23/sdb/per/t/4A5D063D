@@ -1,0 +1,15 @@
+{
+    "contents" : "digraph structs{\n  node [shape=plaintext];\n  struct1 [label=<<TABLE>\n  <TR><TD><I>Rhyzobius lophanthae</I></TD></TR>\n  <TR><TD><IMG SRC=\"images/Rhyzobius_lophanthae.png\"/></TD></TR>\n  </TABLE>>];\n}",
+    "created" : 1384504868062.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2352478989",
+    "id" : "4A5D063D",
+    "lastKnownWriteTime" : 1383172000,
+    "path" : "~/Presentations/cycadPoster/gv/test.gv",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}

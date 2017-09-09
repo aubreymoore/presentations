@@ -1,0 +1,310 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2012.7.25)  4 NOV 2013 15:15
+entering extended mode
+**C:/Documents*and*Settings/Administrator/My*Documents/Presentations/cycadPoste
+r/cycas_poster_2013.tex
+
+("C:/Documents and Settings/Administrator/My Documents/Presentations/cycadPoste
+r/cycas_poster_2013.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\sciposter\sciposter.cls"
+Document Class: sciposter 2006/05/30 v1.17 scientific poster class (MHFW, AMW)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Documents and Settings\Administrator\Application Data\MiKTeX\2.9\tex\latex
+\lettrine\lettrine.sty"
+File: lettrine.sty 2007/08/08 v1.62 (Daniel Flipo)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\c@DefaultLines=\count87
+\DefaultFindent=\dimen103
+\DefaultNindent=\dimen104
+\DefaultSlope=\dimen105
+\L@lbox=\box26
+\L@tbox=\box27
+\c@L@lines=\count88
+\L@Pindent=\dimen106
+\L@Findent=\dimen107
+\L@Nindent=\dimen108
+\L@lraise=\dimen109
+\L@first=\dimen110
+\L@next=\dimen111
+\L@slope=\dimen112
+\L@height=\dimen113
+\LettrineWidth=\dimen114
+
+Loading lettrine.cfg
+
+("C:\Documents and Settings\Administrator\Application Data\MiKTeX\2.9\tex\latex
+\lettrine\lettrine.cfg"))
+\papermargin=\skip43
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\sciposter\papercustom.cfg")
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count89
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\shadow.sty"
+Package: shadow 2003/02/19 v1.3 shadow boxes (M.O.)
+\txtwdth=\dimen115
+\sht=\dimen116
+\shw=\dimen117
+\shbox=\box28
+\sboxsep=\dimen118
+\sboxrule=\dimen119
+\sdim=\dimen120
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\a0poster\a0size.sty"
+File: a0size.sty 2004/01/31 v1.22b a0poster class (GK, MW)
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 229.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 229.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 229.
+\big@size=\dimen121
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\boxedminipage\boxedminipage.sty")
+\titlewidth=\skip44
+\logowidth=\skip45
+\parstartskip=\skip46
+\figtopskip=\skip47
+\figbotskip=\skip48
+\secskip=\skip49
+\titleskip=\skip50
+\secboxwidth=\skip51
+\c@subfig=\count90
+\c@algorithm=\count91
+\secrulewidth=\skip52
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen122
+\Gin@req@width=\dimen123
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count92
+\mult@box=\box29
+\multicol@leftmargin=\dimen124
+\c@unbalance=\count93
+\c@collectmore=\count94
+\doublecol@number=\count95
+\multicoltolerance=\count96
+\multicolpretolerance=\count97
+\full@width=\dimen125
+\page@free=\dimen126
+\premulticols=\dimen127
+\postmulticols=\dimen128
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box30
+\last@line=\box31
+\mult@rightbox=\box32
+\mult@grightbox=\box33
+\mult@gfirstbox=\box34
+\mult@firstbox=\box35
+\@tempa=\box36
+\@tempa=\box37
+\@tempa=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\c@columnbadness=\count98
+\c@finalcolumnbadness=\count99
+\last@try=\dimen129
+\multicolovershoot=\dimen130
+\multicolundershoot=\dimen131
+\mult@nat@firstbox=\box53
+\colbreak@box=\box54
+\multicol@sort@counter=\count100
+)
+("C:\Documents and Settings\Administrator\My Documents\Presentations\cycadPoste
+r\cycas_poster_2013.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 20.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+("C:\Documents and Settings\Administrator\Application Data\MiKTeX\2.9\tex\conte
+xt\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen132
+\scratchbox=\box55
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen133
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks16
+)
+-- Paper type set to custom.
+\GPT@outputbox=\box56
+<gv/images/uoglogo.png, id=1, 199.8053pt x 275.94pt>
+File: gv/images/uoglogo.png Graphic file (type png)
+
+<use gv/images/uoglogo.png>
+Package pdftex.def Info: gv/images/uoglogo.png used on input line 21.
+(pdftex.def)             Requested size: 199.8048pt x 275.93932pt.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <61.92> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/phv/bx/it' in size <61.92> not available
+(Font)              Font shape `OT1/phv/b/it' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/phv/b/it' in size <61.92> not available
+(Font)              Font shape `OT1/phv/b/sl' tried instead on input line 21.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <43> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 21.
+
+<gv/images/calslogo.png, id=2, 608.2725pt x 686.565pt>
+File: gv/images/calslogo.png Graphic file (type png)
+
+<use gv/images/calslogo.png>
+Package pdftex.def Info: gv/images/calslogo.png used on input line 21.
+(pdftex.def)             Requested size: 608.27103pt x 686.56332pt.
+ <gv/graph1.pdf, id=3, 4636.32124pt x 3844.3625pt>
+File: gv/graph1.pdf Graphic file (type pdf)
+
+<use gv/graph1.pdf>
+Package pdftex.def Info: gv/graph1.pdf used on input line 26.
+(pdftex.def)             Requested size: 1761.32523pt x 1460.45464pt.
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <24.88> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 27.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <24.88> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 27.
+ <gv/legend.pdf, id=4, 803.0pt x 529.98pt>
+File: gv/legend.pdf Graphic file (type pdf)
+
+<use gv/legend.pdf>
+Package pdftex.def Info: gv/legend.pdf used on input line 32.
+(pdftex.def)             Requested size: 802.99805pt x 529.97868pt.
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no “ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no “ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no “ in font phvr7t!
+Missing character: There is no â in font phvr7t!
+Missing character: There is no € in font phvr7t!
+Missing character: There is no “ in font phvr7t!
+ [1
+
+{C:/Documents and Settings/Administrator/Local Settings/Application Data/MiKTeX
+/2.9/pdftex/config/pdftex.map} <C:/Documents and Settings/Administrator/My Docu
+ments/Presentations/cycadPoster/gv/images/uoglogo.png> <C:/Documents and Settin
+gs/Administrator/My Documents/Presentations/cycadPoster/gv/images/calslogo.png 
+(PNG copy)> <C:/Documents and Settings/Administrator/My Documents/Presentations
+/cycadPoster/gv/graph1.pdf> <C:/Documents and Settings/Administrator/My Documen
+ts/Presentations/cycadPoster/gv/legend.pdf
+
+pdfTeX warning: pdflatex.EXE (file C:/Documents and Settings/Administrator/My D
+ocuments/Presentations/cycadPoster/gv/legend.pdf): PDF inclusion: multiple pdfs
+ with page group included in a single page
+>]
+("C:\Documents and Settings\Administrator\My Documents\Presentations\cycadPoste
+r\cycas_poster_2013.aux") ) 
+Here is how much of TeX's memory you used:
+ 1674 strings out of 493921
+ 26241 string characters out of 3147204
+ 80724 words of memory out of 3000000
+ 4958 multiletter control sequences out of 15000+200000
+ 20329 words of font info for 42 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 30i,7n,21p,983b,345s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontnam
+e/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/P
+rogram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on cycas_poster_2013.pdf (1 page, 21090773 bytes).
+PDF statistics:
+ 104 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,491 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+New Island Records for Arthropods on Guam 2010 - 2011 
+\end_layout
+
+\begin_layout Author
+Aubrey Moore
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Bark beetles.
+
+\series default
+ A single coffee berry borer trap deployed at a single location at the Universit
+y of Guam Yigo Agricultural Experiment Station during January and February,
+ 2011 caught seven species of scolytids, four of which are new island records.
+ 
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+describe reason for hanging trap, trap location, trap details
+\end_layout
+
+\end_inset
+
+ Determined by Donald Bright, Colorado State University.
+ In addition to the new records listed below, the tfap caught x,y,z, previously
+ reported from Guam (ref).
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+COLEOPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Scolytidae (Bark beetles) 
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Coccotrypes advena
+\emph default
+ Blandford 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Xylosandrus crassiusculus
+\emph default
+ (Motschulsky) 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Hypothemus burmanus
+\emph default
+ (Eichoff) 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Hypothemus crudiae
+\emph default
+ (Panzer)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Burrowing bugs.
+
+\series default
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Jerzy2010"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+HEMIPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Cydnidae (Burrowing bugs) 
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Byrsinus varians
+\emph default
+ (Fabricius, 1803) 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Fromundus biimpressus
+\emph default
+ (Horváth, 1919) 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Rhytidoporus indentatus
+\emph default
+ Uhler, 1877
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Termites.
+
+\series default
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Mankin2010"
+
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Marler2011"
+
+\end_inset
+
+Reported in Mankin, R.
+ W., A.
+ Moore 2010.
+ Acoustic Detection of Oryctes rhinoceros (Coleoptera: Scarabaeidae: Dynastinae)
+ and Nasutitermes luzonicus (Isoptera: Termitidae) in Palm Trees in Urban
+ Guam.
+ Journal of Economic Entomology 103(4) 1135-1143.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+ISOPTERA (Termites) 
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Termitidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Nasutitermes luzonicus
+\emph default
+ Oshima
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Rhinotermitidae
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Schedorhinotermes longirostris
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Eriophyid gall mite on 
+\emph on
+Hybiscus
+\emph default
+.
+
+\series default
+ New record of a mite forming galls on Hibiscus tiliaceae.
+ Determined by Cal Welbourn, Florida Department of Agriculture.
+ 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+ACARI (Mites)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Eriophyidae
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Acerimina tiliaceae
+\emph default
+ Mohanasundaram & Sharma
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Spiders.
+
+\series default
+ New records for spiders which arrived on a ship from South Korea.
+ Determined from digital images by Seung Tae Kim, Seoul National University.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+ARANEAE (Spiders)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Araneidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Araneus ventricosus
+\emph default
+ (L.
+ Koch, 1878)
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Larinioides cornutus
+\emph default
+ (Clercki, 1757)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Scale insect on hot pepper.
+
+\series default
+ New record for a scale insect found on hot pepper growing at the University
+ of Hawaii.
+ Genus determined from digital image by Gillian Watson, California Department
+ of Foods and Agriculture.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+HEMIPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Coccidae (soft scale insects)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Pulvinaria
+\emph default
+ sp.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Little fire ant.
+
+\series default
+ first detected on Guam at the Primo green waste dump site in Yigo.
+ Species determined by Ross Miller, Cas Vanderwoude and others.
+ A delimiting survey found about a dozen widely dispersed infestations.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+HYMENOPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Formicidae (ants)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Wasmannia auropunctata
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+
+\series bold
+Biting flies.
+
+\series default
+ Dr.
+ Will Reeves found a new mosquito
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nunn2011"
+
+\end_inset
+
+ and a new black fly
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Reeves2011"
+
+\end_inset
+
+ while doing surveys for the Navy.
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+DIPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Culicidae (mosquitoes)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Anopheles campestris
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+Simuliidae (black flies)
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\emph on
+Simulium aureohirtum 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "C:/Documents and Settings/Administrator/My Documents/WPDN/new island records"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+
+\end_layout
+
+\end_body
+\end_document

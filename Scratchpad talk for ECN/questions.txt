@@ -1,0 +1,13 @@
+1) Likes/dislikes & pros/cons- we (hopefully) will be prone to listing our "likes" but let's make sure to include the major dislikes as well (things that we'd like to see changed).
+
+2) What is the primary user audience - large/ small museum management? taxonomic research? is a dedicated IT / programmer required? Single vs multi-user? (annual cost should probably also be addressed)
+
+3) GBIF - does the database provide data to GBIF, and details on how difficult or easy this is to accomplish etc
+
+4) Barcoding (labels, not DNA) - does the database handle batch processing of specimens using barcodes, etc (and/or a general category on 'speed / ease of use')
+
+5) Georeferencing - what georeferencing tools does the database provide, does it conform to the recommended 'best practices' guide published by GBIF?
+
+6) What is the ease / difficulty of websetup?
+
+7) Security - can a data entry technician accidentally delete or change (corrupt) large amounts of data? Is/are the database server(s) protected from disaster (eg floods, fires)?

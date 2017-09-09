@@ -1,0 +1,16 @@
+{
+    "contents" : "library(\"Rgraphviz\")\nset.seed(123)\nV <- letters[1:10]\nM <- 1:4\ng1 <- randomGraph(V, M, 0.2)\ng1 <- layoutGraph(g1)\nrenderGraph(g1)\n",
+    "created" : 1384572768390.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2810842474",
+    "id" : "DE748B88",
+    "lastKnownWriteTime" : 578055781,
+    "path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

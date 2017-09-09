@@ -1,0 +1,41 @@
+digraph G{
+
+rankdir=TB;
+fontsize=40
+label="LEGEND"
+labelloc="t"
+
+node [penwidth=10, shape=box, style="rounded,filled", margin=0, fontsize=40, colorscheme="paired12", fixedsize=true, width=10, height=1];
+edge[penwidth=0, arrowsize=0]
+
+endemic [fillcolor=3, color=4,
+label=<
+<table border="0">
+  <tr><td>Endemic or Native Species</td></tr>
+</table>
+>];
+
+invasive [fillcolor=5, color=6,
+label=<
+<table border="0">
+  <tr><td>Invasive Species</td></tr>
+</table>
+>];
+
+intentional_biocontrol  [fillcolor=7, color=8,
+label=<
+<table border="0">
+  <tr><td>Intentionally Introduced Biocontrol Agent</td></tr>
+</table>
+>];
+
+accidental_biocontrol  [fillcolor=11, color=12,
+label=<
+<table border="0">
+  <tr><td>Accidentally Introduced Biocontrol Agent</td></tr>
+</table>
+>];
+
+endemic ->  invasive -> intentional_biocontrol -> accidental_biocontrol
+
+}

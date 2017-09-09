@@ -1,0 +1,15 @@
+{
+    "contents" : "\"C:\\Program Files\\Graphviz2.32\\bin\\dot.exe\" -Tpdf graph1.gv -o graph1.pdf\ngraph1.pdf\npause\n",
+    "created" : 1384504846734.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1382031253",
+    "id" : "D1BFE866",
+    "lastKnownWriteTime" : 1383348450,
+    "path" : "~/Presentations/cycadPoster/gv/doit.bat",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "text"
+}

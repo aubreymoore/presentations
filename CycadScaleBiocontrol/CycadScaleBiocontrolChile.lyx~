@@ -1,0 +1,738 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass beamer
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setbeamercolor{background canvas}{bg=}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename CycadScaleBiocontrolSource.pdf
+	display false
+	lyxscale 20
+	extra LaTeX "pages={1}"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Acknowledgments
+\end_layout
+
+\begin_layout Itemize
+Hawaii Department of Agriculture: Bernarr Kumashiro & Neil Reimer
+\end_layout
+
+\begin_layout Itemize
+University of Hawaii: Arnold Hara, Stacey Chun, Leyla Kaufman, Mark Wright
+\end_layout
+
+\begin_layout Itemize
+California Department of Food & Agriculture: Gillian Watson
+\end_layout
+
+\begin_layout Itemize
+United States Department of Agriculture: Greg Evans
+\end_layout
+
+\begin_layout Itemize
+United States Forest Service: Sheri Lee Smith
+\end_layout
+
+\begin_layout Itemize
+United States Fish & Wildlife Service
+\end_layout
+
+\begin_layout Itemize
+Guam Department of Agriculture: Diane Vice
+\end_layout
+
+\begin_layout Itemize
+Guam National Wildlife Refuge
+\end_layout
+
+\begin_layout Itemize
+University of Guam: Nenita Dumaliang, Kristine Bataclan, John Brown, Marin
+ Rowe, Jesse Bamba, Rudy Estoy
+\end_layout
+
+\begin_layout Itemize
+U.S.
+ Navy: Anne Brooke
+\end_layout
+
+\begin_layout Subsection
+Location Slide
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename CycadScaleBiocontrolSource.pdf
+	display false
+	lyxscale 25
+	extra LaTeX "pages={2}"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout NoteItem
+I notice that quite a few presentations at this conference are from entomologist
+s living and working on islands.
+ This is not a coincidence.
+ It is well known that islands, especially tropical oceanic islands, are
+ susceptible to massive ecological damage when invasive species establish
+ in the absence of natural enemies.
+ The typical response to these invasions is classical biological control.
+ 
+\end_layout
+
+\begin_layout Subsection
+Biological Invasion Slide
+\end_layout
+
+\begin_layout BeginFrame
+Major Biological Invasions on Guam
+\end_layout
+
+\begin_layout Itemize
+Brown Treesnake (arrived around 1945) 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Killed most of Guam's birds and small mammals.
+ Caused 7 bird extinctions.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Asian Cycad Scale (detected 2003)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Threatens survival of Guam's endemic Cycas micronesica, listed as most numerous
+ tree in the 2002 Guam Forest Survey
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Coconut Rhinoceros Beetle (detected 2007)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Threatens Guam's coconut palms, listed as 2nd most numerous tree in 2002
+ Guam Forest Survey
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Little Fire Ant (detected 2011)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Threatens most animals remaining in Guam's forests
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Invasion Timeline
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename CycadScaleBiocontrolSource.pdf
+	display false
+	extra LaTeX "pages={11-25,27}"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Initial Biocontrol Attempts
+\end_layout
+
+\begin_layout BeginFrame
+Biocontrol Attempts
+\end_layout
+
+\begin_layout Itemize
+COCCINELLIDAE: 
+\emph on
+Rhyzobius lophanthae 
+\emph default
+imported from Hawaii 2004
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Single attempt; Established Immediately
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+APHELINIDAE: 
+\emph on
+Coccobius fulvus
+\emph default
+ from China via Florida starting in 2005
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Several attempts; lab colony died; field releases did not establish
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+APHELINIDAE: 
+\emph on
+Aphytis lignanensis
+\emph default
+ imported from Hawaii 2012
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Single attempt; lab colony died prior to field release
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Establishment of Rhyzobius lophanthae
+\end_layout
+
+\begin_layout BeginFrame
+Rhizobius lophanthae (COCCINELLIDAE), 'purple scale destroyer'
+\end_layout
+
+\begin_layout Itemize
+both adults and larvae feed on Diaspidids (armored scales)
+\end_layout
+
+\begin_layout Itemize
+introduced from Australia to California in 1892; from California to Hawaii
+ in 1894
+\end_layout
+
+\begin_layout Itemize
+Released on Guam in 1925 & 1926, but was never recovered
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename CycadScaleBiocontrolSource.pdf
+	display false
+	extra LaTeX "pages={34-37,39-46,49,51-52}"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Longterm Field Monitoring of 
+\emph on
+Aulacaspis yasumatsui
+\emph default
+ and 
+\emph on
+Rhyzobius lophanthae
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename predHeightFig2.png
+	lyxscale 20
+	width 80text%
+	height 80theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\color blue
+Source: Marler, T.E., R.
+ Miller, and A.
+ Moore.
+ 2013.
+ Vertical stratification of predation on 
+\emph on
+Aulacaspis yasumatsui
+\emph default
+ infesting 
+\emph on
+Cycas micronesica
+\emph default
+ seedlings.
+ HortScience 48:60–62.
+\end_layout
+
+\begin_layout BeginFrame
+Current Rhyzobius lophanthae Status
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+R.
+ lophanthae
+\emph default
+ is ubiquitous on Guam.
+ It is almost impossible to find Asian cycad scale which is not being attacked
+ by larvae and adults.
+ 
+\end_layout
+
+\begin_layout BeginFrame
+So the biocontrol program was a success and the cycads must be recovering
+ by now, right? ...
+\end_layout
+
+\begin_layout BeginFrame
+Current 
+\emph on
+Cycas micronesica
+\emph default
+ Status
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename declineGraph.png
+	lyxscale 20
+	width 78text%
+	height 78theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\color blue
+Marler, T.E.
+ and J.H.
+ Lawrence.
+ 2012.
+ Demography of 
+\emph on
+Cycas micronesica
+\emph default
+ on Guam following introduction of the armoured scale 
+\emph on
+Aulacaspis yasumatsui
+\emph default
+.
+ Journal of Tropical Ecology 28:233–242.
+ 
+\end_layout
+
+\begin_layout BeginFrame
+Current 
+\emph on
+Cycas micronesica
+\emph default
+ Status
+\end_layout
+
+\begin_layout Standard
+The 
+\emph on
+C.
+ micronesica
+\emph default
+ population is still in decline.
+\end_layout
+
+\begin_layout Itemize
+In 2006, 
+\emph on
+C.
+ micronesica
+\emph default
+ was placed on the IUCN Red List of Threatened Species and it remains on
+ this list
+\end_layout
+
+\begin_layout Itemize
+No reproduction on Guam has been observed since 2005.
+\end_layout
+
+\begin_layout Itemize
+Only 7% of the original plants survive as of January 2013.
+\end_layout
+
+\begin_layout Itemize
+Local extirpation predicted in 2019 if current trend persists.
+\end_layout
+
+\begin_layout Section
+Failure Analysis
+\end_layout
+
+\begin_layout BeginFrame
+Failure Analysis
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+R.
+ lophanthae
+\emph default
+ fails as a stand-alone biocontrol agent for Asian Cycad Scale because:
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+R.
+ lophanthae
+\emph default
+ is too big to reach a significant proportion of the scale insects which
+ live in small cracks and voids within plant structures
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\color blue
+Marler, T.E.
+ and A.
+ Moore 2010.
+ Cryptic scale infestations on 
+\emph on
+Cycas revoluta
+\emph default
+ facilitate scale invasions.
+ Hort.
+ Sci.
+ 45: 837-839.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+R.
+ lophanthae
+\emph default
+ does not prey on scale insects living beneath trichomes on 
+\emph on
+C.
+ revoluta
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\color blue
+Marler, T.E.
+ 2012.
+ Boomeranging in structural defense: Phytophagous insect uses cycad trichomes
+ to defend against entomophagy.
+ Plant Signaling & Behavior 7:1484 –1487.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+R.
+ lophanthae
+\emph default
+ predation decreases with proximity to the ground.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\color blue
+Marler, T.E., R.
+ Miller, and A.
+ Moore 2013.
+ Vertical stratification of predation on 
+\emph on
+Aulacaspis yasumatsui
+\emph default
+ infesting 
+\emph on
+Cycas micronesica
+\emph default
+ seedlings.
+ HortScience 48: 60–62.
+\end_layout
+
+\end_deeper
+\begin_layout Section
+Current Biocontrol Objectives
+\end_layout
+
+\begin_layout BeginFrame
+Current Cycad Scale Biocontrol Objectives
+\end_layout
+
+\begin_layout Itemize
+We are currently attempting to introduce a parasitoid in the hope that its
+ smaller size will allow it to attack scale insects which escape beetle
+ predation by hiding in small spaces within the plant structures.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Aphytis lignanensis
+\emph default
+ has been chosen as a candidate because it coexists with 
+\emph on
+R.
+ lophnathae
+\emph default
+ in Hawaii and Texas.
+\end_layout
+
+\begin_layout Section
+Other Actors
+\end_layout
+
+\begin_layout BeginFrame
+
+\emph on
+A.
+ yasumatsui
+\emph default
+ is Not the Only Invasive Species Attacking Cycads on Guam
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename CycasFoodWeb.png
+	lyxscale 20
+	width 80text%
+	height 80theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Chilades pandava
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename pandava.tif
+	lyxscale 20
+	width 80text%
+	height 80theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Chilades pandava
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename pandava.png
+	lyxscale 20
+	width 80text%
+	height 80theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+And They are Still Arriving ...
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename CycadScaleBiocontrolSource.pdf
+	display false
+	extra LaTeX "pages={7-10}"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Conclusion
+\end_layout
+
+\begin_layout BeginFrame
+Concluding Comments
+\end_layout
+
+\begin_layout Itemize
+The predaceous lady beetle, 
+\emph on
+R.
+ lophanthae
+\emph default
+ has failed as a stand-alone biocontrol agent for Asian cycad scale, even
+ though it established readily and has become ubiquitous.
+\end_layout
+
+\begin_layout Itemize
+Presence of 
+\emph on
+R.
+ lophanthae
+\emph default
+ has thwarted our attempts to establish parasitoids as biocontrol agents
+ for Asian cycad scale.
+\end_layout
+
+\begin_layout Itemize
+If you wish to introduce predators and parasitoids, it may be easier to
+ establish parasitoids first, then predators.
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset External
+	template PDFPages
+	filename invasive species are not all bad c.pdf
+	display false
+	extra LaTeX "pages={1}"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\end_body
+\end_document

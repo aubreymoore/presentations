@@ -1,0 +1,119 @@
+digraph G{
+
+cm [shape=box, style=rounded, color=green,
+label=<
+<table border="0">
+  <tr><td><i>Cycas micronesica</i></td></tr>
+  <tr><td>Cycadales: Cycadaceae</td></tr>
+  <tr><td bgcolor="green">Endemic Plant</td></tr>
+  <tr><td><img src="images/cm.png" scale="false"/></td>
+  </tr>
+</table>
+>];
+
+ay [shape=box, style=rounded, color=red,
+label=<
+<table border="0">
+  <tr><td><i>Aulacaspis yasumatsui</i></td></tr>
+  <tr><td>Hemiptera: Diaspididae</td></tr>
+  <tr><td bgcolor="red"><font color="white">Invasive Species<br/>first record on Guam in 2003</font></td></tr>
+  <tr><td></td></tr>
+</table>
+>];
+
+rl  [shape=box, style=rounded, color=green, 
+label=<
+<table border="0">
+  <tr><td><i>Rhyzobius lophanthae</i></td></tr>
+  <tr><td>Coleoptera: Coccinellidae</td></tr>
+  <tr><td bgcolor="green">Biocontrol Agent<br/>introduced on Guam in 2005</td></tr>
+  <tr><td width="100" height="200" fixedsize="true"></td></tr>
+</table>
+>];
+
+cp  [shape=box, style=rounded, color=red,
+label=<
+<table border="0">
+  <tr><td><i>Chilades pandava</i></td></tr>
+  <tr><td>Lepidoptera: Lycaenidae</td></tr>
+  <tr><td bgcolor="red"><font color="white">Invasive Species<br/>first record on Guam in 2005</font></td></tr>
+  <tr><td><img src="images/rlLarvae.png" scale="false"/></td></tr>
+</table>
+>];
+
+tg  [shape=box, style=rounded, color=green,
+label=<
+<table border="0">
+  <tr><td><i>Trichogrammatoidea guamensis</i></td></tr>
+  <tr><td>Hymenoptera: Trichogrammatidae</td></tr>
+  <tr><td bgcolor="green">Endemic Egg Parasitoid</td></tr>
+  <tr><td width="100" height="200" fixedsize="true"></td></tr>
+</table>
+>];
+
+ants  [shape=box, style=rounded, color=red,
+label=<
+<table border="0">
+  <tr><td><i>ants</i></td></tr>
+  <tr><td>Hymenoptera: Formicidae</td></tr>
+  <tr><td bgcolor="red">Attendant Ants</td></tr>
+  <tr><td width="100" height="200" fixedsize="true"></td></tr>
+</table>
+>];
+
+
+pig  [shape=box, style=rounded, color=red,
+label=<
+<table border="0">
+  <tr><td><i>pig</i></td></tr>
+  <tr><td>??</td></tr>
+  <tr><td bgcolor="red">Invasive Species</td></tr>
+  <tr><td width="100" height="200" fixedsize="true"></td></tr>
+</table>
+>];
+
+
+erechthias  [shape=box, style=rounded, color=red,
+label=<
+<table border="0">
+  <tr><td><i>Trichogrammatoidea guamensis</i></td></tr>
+  <tr><td>Hymenoptera: Trichogrammatidae</td></tr>
+  <tr><td bgcolor="red">??</td></tr>
+  <tr><td width="100" height="200" fixedsize="true"></td></tr>
+</table>
+>];
+
+
+longhorn  [shape=box, style=rounded, color=red,
+label=<
+<table border="0">
+  <tr><td><i>longhorn</i></td></tr>
+  <tr><td>Hymenoptera: Trichogrammatidae</td></tr>
+  <tr><td bgcolor="green">Endemic Egg Parasitoid</td></tr>
+  <tr><td width="100" height="200" fixedsize="true"></td></tr>
+</table>
+>];
+
+
+termites  [shape=box, style=rounded, color=green,
+label=<
+<table border="0">
+  <tr><td><i>termites</i></td></tr>
+  <tr><td>Hymenoptera: Trichogrammatidae</td></tr>
+  <tr><td bgcolor="green">Endemic Egg Parasitoid</td></tr>
+  <tr><td width="100" height="200" fixedsize="true"></td></tr>
+</table>
+>];
+
+
+  ay -> cm;
+  rl -> ay;
+  cp -> cm;
+  tg -> cp;
+  pig -> longhorn;
+  pig -> cm;
+  erechthias -> cm;
+  longhorn -> cm;
+  termites -> cm;
+  ants -> cp;
+}

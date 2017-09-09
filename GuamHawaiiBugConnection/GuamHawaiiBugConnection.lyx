@@ -1,0 +1,1527 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass beamer
+\begin_preamble
+\usetheme{Berkeley}
+\end_preamble
+\options hyperref={bookmarks=false}
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_bookmarks false
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 0
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks true
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Note Note
+status open
+
+\begin_layout Plain Layout
+Additional data:
+\end_layout
+
+\begin_layout Plain Layout
+PHES 14:3 p.
+ 353: Notes and Exhibitions
+\end_layout
+
+\begin_layout Plain Layout
+W.
+ W.
+ Wirth 1952.
+ New Records and Name Changes of Ephydridae
+\end_layout
+
+\begin_layout Plain Layout
+Clasiopella uncinata Hendel; described from Formosa; USNM material from
+ Guam and Midway; very common on airplanes; Honolulu, Oahu, Naval Air Station,
+ January 8, 1946, Wirth (at plane window), 1 male, 1 female, (USNM)
+\end_layout
+
+\begin_layout Plain Layout
+Hostis guamensis Cresson; previously known only from Guam
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+setbeamercolor{background canvas}{bg=}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Title (Plain Frame)
+Guam as a Source of New Insects for Hawaii
+\end_layout
+
+\begin_layout Subtitle
+Pacific Entomology Conference
+\end_layout
+
+\begin_layout TitleGraphic
+\begin_inset Graphics
+	filename images/orientalis.png
+	lyxscale 15
+	scale 15
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+Aubrey Moore
+\end_layout
+
+\begin_layout Institute
+
+\size small
+University of Guam
+\begin_inset Newline newline
+\end_inset
+
+College of Natural and Applied Sciences
+\begin_inset Newline newline
+\end_inset
+
+Cooperative Extension Services / Western Pacific Research Center
+\end_layout
+
+\begin_layout Date
+February 23, 2012
+\end_layout
+
+\begin_layout Section*
+Introduction
+\end_layout
+
+\begin_layout BeginFrame
+Where is Guam?
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/Micronesian_Cultural_Area_dot.png
+	lyxscale 50
+	width 95text%
+	height 95theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Challenges
+\end_layout
+
+\begin_layout Itemize
+Limited taxonomic expertise
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+only 6 active PhD level entomologists in all of Micronesia (4 on Guam; 2
+ in Palau)
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+High endemism (~45%); many undescribed species
+\end_layout
+
+\begin_layout Itemize
+Very high introduction rate for alien insects
+\end_layout
+
+\begin_layout BeginFrame
+Origin of New Insects on Guam
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Documents and Settings/Administrator/My Documents/Presentations/GuamInvasiveInsectsMBP20100120/GuamInvasiveInsectsMBP20100120.pdf
+	lyxscale 50
+	scale 40
+	special page=14
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Origin of New Insects on Guam (1945-1989)
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/pie.png
+	lyxscale 40
+	scale 40
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Data source: 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Schreiner1991"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Current Invasions
+\end_layout
+
+\begin_layout Itemize
+Asian cycad scale, 
+\emph on
+Aulacaspis yasumatsui
+\emph default
+ - detected 2003; has killed 90% of Guam's endemic cycad which was Guam's
+ most populous tree
+\end_layout
+
+\begin_layout Itemize
+Coconut rhinoceros beetle, 
+\emph on
+Oryctes rhinoceros
+\emph default
+ - detected 2007; is killing coconut palms, which was Guam's second most
+ populous tree
+\end_layout
+
+\begin_layout Itemize
+Little fire ant, 
+\emph on
+Wasmania auropunctata
+\emph default
+ - detected 2011
+\end_layout
+
+\begin_layout BeginFrame
+15 new island records in 2010-2011
+\end_layout
+
+\begin_layout Itemize
+4 bark beetles, Scolytidae, from a single CBB trap at a single location
+ 
+\end_layout
+
+\begin_layout Itemize
+2 biting flies: a black fly and an anopheline mosquito 
+\end_layout
+
+\begin_layout Itemize
+little fire ant
+\end_layout
+
+\begin_layout Itemize
+8 other species
+\end_layout
+
+\begin_layout BeginFrame
+New Island Record for 2012
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/bananaLeafThripsDorsal.jpg
+	lyxscale 20
+	width 50text%
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename images/bananaLeafThripsExtremeDamage.JPG
+	lyxscale 20
+	width 50text%
+	height 50theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Dinurothrips hookeri
+\emph default
+ Hood (Thysanoptera: Thripidae)
+\end_layout
+
+\begin_layout Itemize
+Distribution: Caribbean, Florida, Brazil
+\end_layout
+
+\begin_layout Itemize
+Hosts: leaves of banana, tomato, various Asteraceae, sweet potato, eggplant
+\end_layout
+
+\begin_layout Itemize
+For more info, visit 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://guaminsects.myspecies.info/thrips-attacking-young-banana-leaves
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Early Concerns
+\end_layout
+
+\begin_layout BeginFrame
+Early Concerns
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/PanAmClipper1.jpeg
+	lyxscale 50
+	width 95text%
+	height 95theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+1936 Entomological Survey of Guam
+\end_layout
+
+\begin_layout Itemize
+Sponsored by the Hawaiian Sugar Planters Association
+\end_layout
+
+\begin_layout Itemize
+Results reported in:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Sweezey, O.
+ H.
+ 1942.
+ Insects of Guam - 1.
+ Bernice P.
+ Bishop Museum Bulletin 172 1–218.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Swezey1942"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Sweezey, O.
+ H.
+ 1946.
+ Insects of Guam - 1.
+ Bernice P.
+ Bishop Museum Bulletin 172 1–218.
+\begin_inset CommandInset citation
+LatexCommand citet
+key "Swezey1946"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Gressitt, J.L.
+ 1954 - present.
+ Insects of Micronesia series.
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://hbs.bishopmuseum.org/pubs-online/iom.html
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+1936 Entomological Survey of Guam
+\end_layout
+
+\begin_layout Standard
+Justification for the Survey 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Swezey1942"
+
+\end_inset
+
+:
+\begin_inset VSpace defskip
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+"Guam is the most important station between the Philippines and Honolulu
+ on the route of the Pan-American Airways across the Pacific, and as knowledge
+ of the Guam insect fauna was meager, it was deemed important to acquire
+ as complete a knowledge as possible of this fauna.
+ Unknown insects were already being found in planes arriving at Pearl Harbor,
+ Oahu, and, in spite of the system employed in the fumigation of the planes,
+ an occasional insect was found which had not fully succumbed.
+ There was some concern lest unknown pests might survive and succeed in
+ becoming established, and, perhaps, destructive to sugar cane and other
+ crops grown in Hawaii."
+\end_layout
+
+\begin_layout BeginFrame
+1936 Entomological Survey of Guam
+\end_layout
+
+\begin_layout Itemize
+The 1936 survey identified 50 agricultural pests on Guam which were not
+ present in Hawaii at the time.
+ 
+\end_layout
+
+\begin_layout Itemize
+"No doubt there are many among them which would become serious crop pests
+ if they should reach Hawaii and become established." 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Swezey1942"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Suspects
+\end_layout
+
+\begin_layout BeginFrame
+Insects Suspected of being Introduced from Guam or Other Mariana Islands
+ to Hawaii
+\end_layout
+
+\begin_layout Itemize
+Island Hoppers
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Oriental fruit fly
+\end_layout
+
+\begin_layout Itemize
+Banana leaf roller
+\end_layout
+
+\begin_layout Itemize
+Southern green stink bug
+\end_layout
+
+\begin_layout Itemize
+Grass bagworm
+\end_layout
+
+\begin_layout Itemize
+Oriental flower beetle
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Endemics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Hibiscus whitefly
+\end_layout
+
+\begin_layout Itemize
+Ochrosia fruit fly
+\end_layout
+
+\begin_layout Itemize
+Biting bug
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Oriental fruit fly, 
+\emph on
+Bactrocera dorsalis
+\end_layout
+
+\begin_layout Standard
+"As much troop and other military movement occurred about this time between
+ Hawaii and Saipan, where the fly occurred, this new pest could have come
+ from the latter island." 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pemberton1964"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/800px-Bactrocera_dorsalis.jpg
+	lyxscale 20
+	width 100text%
+	height 50theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Photo by Scott Bauer
+\end_layout
+
+\begin_layout BeginFrame
+Banana leaf roller, 
+\emph on
+Erionata thrax
+\end_layout
+
+\begin_layout Itemize
+Oahu (Hickam AFB) Davis and Kawamura 1975
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+PHES 22(1): 21.
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/800px-Starr_020813-0020_Musa_sp..jpg
+	lyxscale 20
+	width 100text%
+	height 50theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Photo by Forrest and Kim Starr
+\end_layout
+
+\begin_layout BeginFrame
+Southern green stink bug, 
+\emph on
+Nezara viridula
+\end_layout
+
+\begin_layout Standard
+\begin_inset Quotes eld
+\end_inset
+
+As this insect is known in Guam and Samoa but not in California, it possibly
+ came from one of those islands.
+\begin_inset Quotes erd
+\end_inset
+
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pemberton1964"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/Nezara_viridula16.jpg
+	lyxscale 20
+	width 100text%
+	height 50theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+Photo by Russ Ottens, University of Georgia, Bugwood.org
+\end_layout
+
+\begin_layout BeginFrame
+Grass bagworm
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Documents and Settings/Administrator/My Documents/Presentations/BioInvasionOfGuamMBP20100119/BioInvasionOfGuamMBP20100119.pdf
+	lyxscale 40
+	scale 40
+	special page=51
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Oriental flower beetle 
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename C:/Documents and Settings/Administrator/My Documents/Presentations/BioInvasionOfGuamMBP20100119/BioInvasionOfGuamMBP20100119.pdf
+	lyxscale 40
+	scale 40
+	special page=50
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+Endemics
+\end_layout
+
+\begin_layout Itemize
+Ochrosia fruit fly, 
+\emph on
+Bactrocera ochrosiae
+\emph default
+ (Malloch) 1942 (Diptera: Tephritidae)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Molokai 1972 Kjargaard, PHES 32: 5.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\emph on
+Botocudo marianensis
+\emph default
+ (Usinger) 1946 (Hemiptera: Lygaeidae)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Oahu 1974, Beardsley, PHES 22:160-161
+\end_layout
+
+\begin_layout Itemize
+Maui 1972, Gagne, PHES 22:167
+\end_layout
+
+\begin_layout Itemize
+Hawaii 1977, Beardsley, PHES 22: 410
+\end_layout
+
+\begin_layout Itemize
+Kauai 1977, Nakahara, PHES 23(2): 158
+\end_layout
+
+\end_deeper
+\begin_layout Section*
+Interceptions
+\end_layout
+
+\begin_layout BeginFrame
+Interceptions
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/washdownManual.png
+	lyxscale 20
+	width 100text%
+	height 50theight%
+	keepAspectRatio
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size tiny
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.afpmb.org/sites/default/files/pubs/techguides/tg31.pdf
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset VSpace defskip
+\end_inset
+
+Appendix J - USDA APHIS History of Interceptions
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\size tiny
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://www.afpmb.org/sites/default/files/pubs/techguides/tg31/appendix-j.xls
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout BeginFrame
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+[allowframebreaks]
+\end_layout
+
+\end_inset
+
+APHIS Interceptions on USAF Aircraft Arriving in Honolulu from Guam
+\end_layout
+
+\begin_layout Itemize
+COLEOPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Curculionidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Myllocerus
+\emph default
+ sp.
+ (10/27/1987; 6/10/1986) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Elateridae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Conoderus
+\emph default
+ sp.
+ (6/11/1989) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Chrysomelidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Altica
+\emph default
+ sp.
+ (10/11/1984) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Rhyparida
+\emph default
+ sp.
+ (10/18/1984) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Scarabeidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Adoretus sinicus
+\emph default
+ (8/28/1987; 4/1/1990; 7/29/1990) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Anomola
+\emph default
+ sp.
+ (11/27/1986; 8/20/1987; 6/14/1985; 5/16/1990; 5/12/1989; 6/8/1992; 6/11/1990;
+ 5/25/1991) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Popillia lewisi
+\emph default
+ (7/22/1991; 8/2/1991; 6/8/1990) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Protaetia orientalis
+\emph default
+ (11/22/1984; 5/10/1993) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Tenebrionidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Caedius
+\emph default
+ sp.
+ (7/2/1990; 6/9/1990; 6/9/1990) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Gonocephalum
+\emph default
+ sp.
+ (4/8/1990; 6/15/1990; 6/15/1990) 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+LEPIDOPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Noctuidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+unidentified sp.
+ (9/18/1987; 11/30/1984; 9/17/1989; 9/17/1989) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Chrysodeixis chalcites
+\emph default
+ (11/11/1984) NKFG 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Helicoverpa armigera
+\emph default
+ (4/6/1986) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Leucania
+\emph default
+ sp.
+ (8/30/1987; 12/14/1985) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Mocis frugalis
+\emph default
+ (9/18/1987; 7/6/1990) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Platysenta
+\emph default
+ sp.
+ (10/23/1986; 8/16/1987; 8/31/1987; 12/11/1984; 11/7/1984) NKFG 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Pseudaletia
+\emph default
+ sp.
+ (9/4/1987; 3/31/1990) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Spodoptera
+\emph default
+ sp.
+ (4/21/1987; 9/20/1987; 5/9/1987; 8/17/1987; 7/10/1987; 12/14/1985; 8/28/1993;
+ 6/29/1989; 6/30/1990) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Spodoptera litura
+\emph default
+ (1/29/1985; 11/30/1984; 10/6/1984; 8/5/1986) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Spodoptera mauritia
+\emph default
+ (8/24/1987; 3/5/1986) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Pyralidae
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Unidentified sp.
+ (9/2/1987; 9/14/1987) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Cnaphalocrocis medinalis
+\emph default
+ (5/17/1987;9/20/1985; 9/15/1984; 10/6/1984; 10/23/1984) NKFG
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Herpetogramma licarsisalis
+\emph default
+ (8/22/1984) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Ostrinia furnacalis
+\emph default
+ (9/15/1984) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Sameodes cancellalis
+\emph default
+ (11/27/1984) NKFG 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Lyonetiidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Unidentified sp.
+ (7/30/1985) NKFG 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Sphingidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Unidentified species (11/24/1987) 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+HEMIPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Cydnidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Aethus indicus
+\emph default
+ (7/13/1990) NKFG 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Pentatomidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Plautia
+\emph default
+ sp.
+ (7/2/1985) NKFG
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Cicadellidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Unidentified sp.
+ (6/6/1987; 6/16/1990) 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ISOPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Rhinotermitidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Coptotermes
+\emph default
+ sp.
+ (5/24/1990)
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+ORTHOPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Tettigoniidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Euconocephalus
+\emph default
+ sp.(11/22/1987; 11/30/1987; 10/30/1987; 9/11/1987; 10/16/1987; 12/15/1984;
+ 1/15/1986) 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Gryllidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Metioche vittaticollis
+\emph default
+ (8/3/1986) (listed in MAD as 
+\emph on
+Trigonidium vittaticolis
+\emph default
+) 
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Phyllopalpus
+\emph default
+ sp.
+ (8/30/1987) NKFG 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+HYMENOPTERA
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Torymidae 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\emph on
+Megastigmus pistaciae
+\emph default
+ (1/14/1985) NKFG 
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout BeginFrame
+Interceptions of Insects on USAF Aircraft Arriving on Guam
+\end_layout
+
+\begin_layout Standard
+\align center
+
+\noun on
+NO RECORDS AVAILABLE
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/Smiley.png
+	scale 30
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Why is Guam Such a Good Source?
+\end_layout
+
+\begin_layout BeginFrame
+Why is Guam Such a Good Source?
+\end_layout
+
+\begin_layout Itemize
+Guam's biosecurity is weak 
+\end_layout
+
+\begin_layout Itemize
+Guam is hypersusceptable to pest invasions and outbreaks 
+\end_layout
+
+\begin_layout Itemize
+Agricultural pests may remain hidden on Guam
+\end_layout
+
+\begin_layout Itemize
+Active military pathway for movement of invasive species between Guam and
+ Hawaii
+\end_layout
+
+\begin_layout BeginFrame
+Why is Guam Such a Good Source?
+\end_layout
+
+\begin_layout FrameSubtitle
+Guam's biosecurity is Weak
+\end_layout
+
+\begin_layout Itemize
+2003 - USDA APHIS establishes the Guam Plant Inspection Station
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+0 APHIS inspectors; 0 identifiers
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+2003 - GovGuam PPQ inspectors moved from Agriculture to Customs
+\end_layout
+
+\begin_layout Itemize
+Intercepted insects are usually identified only to taxonomic level of order
+ or family
+\end_layout
+
+\begin_layout Itemize
+Double standard for treatment
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Infested plant material from US or trans-shipped through the US is 
+\begin_inset Quotes eld
+\end_inset
+
+reconditioned
+\begin_inset Quotes erd
+\end_inset
+
+ (washed with soapy water)
+\end_layout
+
+\begin_layout Itemize
+Infested plant material from elsewhere is destroyed
+\end_layout
+
+\end_deeper
+\begin_layout BeginFrame
+Why is Guam Such a Good Source?
+\end_layout
+
+\begin_layout FrameSubtitle
+Guam is hypersusceptable to pest invasions and outbreaks
+\end_layout
+
+\begin_layout Standard
+\align center
+\begin_inset Graphics
+	filename images/bts.png
+	lyxscale 20
+	scale 20
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+All tropical islands are susceptible to biological invasions and outbreaks.
+\end_layout
+
+\begin_layout Itemize
+Guam is hypersusceptable because:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+the brown treesnake has exterminated birds and other vertebrate insectivores
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+large day-flying insects are extremely abundant
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Itemize
+Guam does not have a large guild of previously imported biocontrol agents,
+ as does Hawaii
+\end_layout
+
+\begin_layout BeginFrame
+Why is Guam Such a Good Source?
+\end_layout
+
+\begin_layout FrameSubtitle
+Agricultural pests may remain hidden on Guam
+\end_layout
+
+\begin_layout Itemize
+Guam has no large-scale commercial farming and limited variety of crops.
+ Agricultural pests may be overlooked because their hosts are not grown
+ as crops on Guam.
+\end_layout
+
+\begin_layout Itemize
+Examples:
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+coffee berry borer, 
+\emph on
+Hypothenemus hampei
+\emph default
+ (Coleoptera: Scolytidae)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Saipan 1944 Dybas; Pohnpei 1953 Gressitt; Pohnpei 1950 Adams 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wood1960"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+sugarcane leafmining buprestid, 
+\emph on
+Aphanisticus cochinchinae seminulum
+\emph default
+ Obenberger (Coleoptera: Buprestidae)
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Guam 2007
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Zack2009"
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout BeginFrame
+Why is Guam Such a Good Source?
+\end_layout
+
+\begin_layout FrameSubtitle
+Active military pathway for movement of invasive species between Guam and
+ Hawaii
+\end_layout
+
+\begin_layout Itemize
+There is ample historical evidence that several pest insects have moved
+ from Guam to Hawaii in association with movements of military personnel
+ and equipment.
+ 
+\end_layout
+
+\begin_layout Itemize
+It is expected that traffic of invasion species on this 
+\begin_inset Quotes eld
+\end_inset
+
+military pathway
+\begin_inset Quotes erd
+\end_inset
+
+ will increase as the Guam military buildup gets underway.
+\end_layout
+
+\begin_layout Section*
+Conclusions
+\end_layout
+
+\begin_layout BeginFrame
+Conclusions
+\end_layout
+
+\begin_layout Itemize
+Evidence indicates that Guam has been and continues to be a high risk source
+ of insects invading Hawaii.
+\end_layout
+
+\begin_layout Section*
+References
+\end_layout
+
+\begin_layout BeginFrame
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+[allowframebreaks]
+\end_layout
+
+\end_inset
+
+References
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "GuamHawaiiBugConnection"
+options "plainnat"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout EndFrame
+
+\end_layout
+
+\end_body
+\end_document

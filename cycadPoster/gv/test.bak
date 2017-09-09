@@ -1,0 +1,7 @@
+digraph structs{
+  node [shape=plaintext];
+  struct1 [label=<<TABLE>
+  <TR><TD><I>Rhyzobius lophanthaeasasasas</I></TD></TR>
+  <TR><TD><IMG SRC="images/Rhyzobius_lophanthae.png"/></TD></TR>
+  </TABLE>>];
+}

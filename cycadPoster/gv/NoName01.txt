@@ -1,0 +1,8 @@
+SELECT trap_type, 
+  SUM(male_count+female_count+unsexed_count)/
+  COUNT(trap.trap_id) 
+FROM trap, trap_visit
+WHERE trap.trap_id = trap_visit.trap_id
+AND visit_date >= '2012-11-01'
+AND visit_date < '2013-11-01'
+GROUP BY trap_type

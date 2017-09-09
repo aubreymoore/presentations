@@ -1,0 +1,54 @@
+% This file was created with JabRef 2.5.
+% Encoding: Cp1252
+
+@ARTICLE{Schreiner1991,
+  author = {Schreiner, Ilse},
+  title = {Sources of new insects established on Guam in the post World War
+	II period},
+  journal = {Micronesica},
+  year = {1991},
+  volume = {Suppl. 3},
+  pages = {5{\textendash}13},
+  number = {2}
+}
+
+@ARTICLE{Schreiner1986,
+  author = {Schreiner, Ilse and Nafus, Donald},
+  title = {Accidental introducations of insect pests to Guam, 1945-1985},
+  journal = {Proceedings of the Hawaiian Entomologocal Society},
+  year = {1986},
+  volume = {27},
+  pages = {45{\textendash}52},
+  url = {http://scholarspace.manoa.hawaii.edu/bitstream/handle/10125/11207/27_45-52.pdf}
+}
+
+@BOOK{Swezey1946,
+  title = {Insects of Guam II},
+  publisher = {Bernice P. Bishop Museum},
+  year = {1946},
+  author = {Swezey, O.H. and Hawaiian Sugar Planters' Association},
+  number = {no. 189},
+  series = {Bernice P. Bishop Museum bulletin},
+  lccn = {43001455},
+  url = {http://books.google.com/books?id=o-wrAAAAMAAJ}
+}
+
+@BOOK{Swezey1942,
+  title = {Insects of Guam I},
+  publisher = {Bernice P. Bishop Museum},
+  year = {1942},
+  author = {Swezey, O.H. and Hawaiian Sugar Planters' Association},
+  number = {no. 172},
+  series = {Bernice P. Bishop Museum bulletin},
+  lccn = {43001455},
+  url = {http://books.google.com/books?id=ftcrAAAAMAAJ}
+}
+
+@comment{jabref-meta: selector_publisher:}
+
+@comment{jabref-meta: selector_author:}
+
+@comment{jabref-meta: selector_journal:}
+
+@comment{jabref-meta: selector_keywords:}
+

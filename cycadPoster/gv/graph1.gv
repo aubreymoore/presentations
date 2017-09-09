@@ -1,0 +1,202 @@
+digraph G{
+
+root=Cycas_micronesica;
+overlap=false;
+/* size="44,22";*/
+margin=0.1;
+nodesep=0.5;
+/* rankdir=LR; */
+/* ranksep=0.5;*/
+
+edge [penwidth=10, arrowsize=3];
+node [penwidth=10, shape=box, style="rounded,filled", margin="0,0", fontsize=40, colorscheme="paired12"];
+
+/* Endemic or Native */
+
+node [fillcolor=3, color=4];
+
+Cycas_micronesica [
+label=<
+<table border="0">
+  <tr><td><i>Cycas micronesica</i></td></tr>
+  <tr><td>Cycadales: Cycadaceae</td></tr>
+  <tr><td>fadang</td></tr>
+  <tr><td bgcolor="4">Endemic Plant</td></tr>
+  <tr><td><img src="images/Cycas_micronesica.png"/></td></tr>
+  <tr><td><i>C. micronesica</i> infested with <i>Aulacaspis yasumatsui</i></td></tr>
+</table>
+>];
+
+Trichogrammatoidea_guamensis  [
+label=<
+<table border="0">
+  <tr><td><i>Trichogrammatoidea guamensis</i></td></tr>
+  <tr><td>Hymenoptera: Trichogrammatidae</td></tr>
+  <tr><td>parasitizes lycaenid eggs</td></tr>
+  <tr><td bgcolor="4">Endemic Insect</td></tr>
+  <tr><td><img src="images/Trichogrammatoidea_guamensis.png"/></td></tr>
+</table>
+>];
+
+Dihammus_marianarum  [
+label=<
+<table border="0">
+  <tr><td><i>Dihammus_marianarum</i></td></tr>
+  <tr><td>Coleoptera: Cerambycidae</td></tr>
+  <tr><td>stem borer</td></tr>
+  <tr><td bgcolor="4">Endemic Insect</td></tr>
+  <tr><td><img src="images/Dihammus_marianarum.png"/></td></tr>
+</table>
+>];
+
+/* Invasive Species */
+
+node [fillcolor=5, color=6];
+
+Aulacaspis_yasumatsui [
+label=<
+<table border="0">
+  <tr><td><i>Aulacaspis yasumatsui</i></td></tr>
+  <tr><td>Hemiptera: Diaspididae</td></tr>
+  <tr><td>cycad aulacaspis scale</td></tr>
+  <tr><td bgcolor="6"><font color="white">Invasive Species<br/>first record on Guam in 2003</font></td></tr>
+  <tr><td><img src="images/Aulacaspis_yasumatsui.png" scale="width"/></td></tr>
+</table>
+>];
+
+Chilades_pandava  [
+label=<
+<table border="0">
+  <tr><td><i>Chilades pandava</i></td></tr>
+  <tr><td>Lepidoptera: Lycaenidae</td></tr>
+  <tr><td>cycad blue butterfly</td></tr>
+  <tr><td bgcolor="6"><font color="white">Invasive Species<br/>first record on Guam in 2005</font></td></tr>
+  <tr><td><img src="images/Chilades_pandava.png" scale="width"/></td></tr>
+</table>
+>];
+
+Formicidae  [
+label=<
+<table border="0">
+  <tr><td>Hymenoptera: Formicidae</td></tr>
+  <tr><td>ants attending <i>C. pandava</i></td></tr>
+  <tr><td>10 species:<i><br/>
+Anoplolepis gracilipes<br/>
+Myrmidon anceps<br/>
+Paratrechina bourbonica<br/>
+Paratrechina longicornis<br/>
+Pheidole megacephala<br/>
+Pheidole oceanica<br/>
+Tapinoma indicum<br/>
+Tapinoma melanocephalum<br/>
+Tetramorium bicarinaturm<br/>
+Technomyrmex albipes<br/>
+  </i></td></tr>
+  <tr><td bgcolor="6"><font color="white">Invasive Species</font></td></tr>
+  <tr><td><img src="images/Formicidae.png"/></td></tr>
+</table>
+>];
+
+Sus_scrofa  [
+label=<
+<table border="0">
+  <tr><td><i>Sus scrofa</i></td></tr>
+  <tr><td>Aetiodactyla: Suidae</td></tr>
+  <tr><td>feral pigs</td></tr>
+  <tr><td bgcolor="6"><font color="white">Invasive Species<br/>introduced to Guam during the 1600s</font></td></tr>
+  <tr><td><img src="images/Sus_scrofa.png"/></td></tr>
+</table>
+>];
+
+Erechthias_sp  [
+label=<
+<table border="0">
+  <tr><td><i>Erechthias</i> sp.</td></tr>
+  <tr><td>Lepidoptera: Tineidae</td></tr>
+  <tr><td>leaf miner</td></tr>
+  <tr><td bgcolor="6"><font color="white">Invasive Species<br/>first record on Guam in 2003</font></td></tr>
+  <tr><td><img src="images/Erechthias_sp.png"/></td></tr>
+</table>
+>];
+
+Isoptera  [
+label=<
+<table border="0">
+  <tr><td><i>termites</i></td></tr>
+  <tr><td>Isoptera</td></tr>
+  <tr><td>3 species:<i><br/>
+  Coptotermes gestroi<br/>
+  Nasutitermes luzonicus<br/>
+  Schedorhinotermes longitostris<br/>
+  </i></td></tr>
+  <tr><td bgcolor="6"><font color="white">Invasive Species</font></td></tr>
+  <tr><td><img src="images/Isoptera.png"/></td></tr>
+</table>
+>];
+
+Lingaspis_rossi  [
+label=<
+<table border="0">
+  <tr><td><i>Lingaspis rossi</i></td></tr>
+  <tr><td>Hemiptera: Diaspididae</td></tr>
+  <tr><td bgcolor="6"><font color="white">Invasive Species<br/>
+    first record on Guam 2013</font></td></tr>
+  <tr><td><img src="images/Lingaspis_rossi.png"/></td></tr>
+</table>
+>];
+
+/* Introduced Biocontrol Agent */
+
+node [fillcolor=7, color=8];
+
+Rhyzobius_lophanthae  [ 
+label=<
+<table border="0">
+  <tr><td><i>Rhyzobius lophanthae</i></td></tr>
+  <tr><td>Coleoptera: Coccinellidae</td></tr>
+  <tr><td bgcolor="8">Biocontrol Agent<br/>introduced on Guam in 2005</td></tr>
+  <tr><td><img src="images/Rhyzobius_lophanthae.png" scale="width"/></td></tr>
+</table>
+>];
+
+node [fillcolor=11, color=12];
+
+Aphytis_sp  [
+label=<
+<table border="0">
+  <tr><td><i>Aphytis</i> sp.</td></tr>
+  <tr><td>Hymenoptera: Aphelinidae</td></tr>
+  <tr><td bgcolor="6"><font color="white">Fortuitously introduced biocontrol agent<br/>
+    first record on Guam Juanuary 25, 2013</font></td></tr>
+  <tr><td><img src="images/Aphytis_sp.png"/></td></tr>
+</table>
+>];
+
+Arrhenophagus_sp [
+label=<
+<table border="0">
+  <tr><td><i>Arrhenophagus</i> sp.</td></tr>
+  <tr><td>Hymenoptera: Encyrtidae</td></tr>
+  <tr><td bgcolor="6"><font color="white">Fortuitously introduced biocontrol agent<br/>
+    first record on Guam February 10, 2013</font></td></tr>
+  <tr><td>Attacks male scales</td></tr>
+  <tr><td><img src="images/Arrhenophagus_sp.png"/></td></tr>
+</table>
+>];
+
+Cycas_micronesica -> Aulacaspis_yasumatsui;
+Aulacaspis_yasumatsui -> Rhyzobius_lophanthae;
+Cycas_micronesica -> Chilades_pandava;
+Chilades_pandava -> Trichogrammatoidea_guamensis;
+Dihammus_marianarum -> Sus_scrofa;
+Cycas_micronesica -> Sus_scrofa;
+Cycas_micronesica -> Erechthias_sp;
+Cycas_micronesica -> Dihammus_marianarum;
+Cycas_micronesica -> Isoptera;
+Chilades_pandava -> Formicidae [dir="both"];
+Cycas_micronesica -> Lingaspis_rossi;
+Lingaspis_rossi -> Aphytis_sp;
+Aulacaspis_yasumatsui -> Arrhenophagus_sp;
+}
+
+
