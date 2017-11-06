@@ -1,0 +1,59 @@
+\begin{thebibliography}{8}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Pemberton(1964)]{Pemberton1964}
+C.~E. Pemberton.
+\newblock {Highlights in the history of entomology in Hawaii 1778-1963}.
+\newblock \emph{Pacific Insects}, 6\penalty0 (4):\penalty0 689--729, 1964.
+\newblock URL \url{http://hbs.bishopmuseum.org/pi/pdf/6%284%29-689.pdf}.
+
+\bibitem[Register(2003)]{FR2003}
+Federal Register.
+\newblock Federal register 68 fr 70421, 2003.
+\newblock URL
+  \url{https://www.federalregister.gov/articles/2003/12/18/03-31203/ports-of-entry-for-certain-plants-and-plant-products}.
+
+\bibitem[Respicio and Guthertz(2009)]{Respicio2009}
+R.J. Respicio and J.P. Guthertz.
+\newblock Bill 2009-109, guam legislature, 2009.
+\newblock URL
+  \url{http://www.guamlegislature.com%2FBills_introduced_30th%2FBill%2520No.%2520109%2520%2528COR%2529.pdf}.
+
+\bibitem[Schreiner(1991)]{Schreiner1991}
+Ilse Schreiner.
+\newblock {Sources of new insects established on Guam in the post World War II
+  period}.
+\newblock \emph{Micronesica}, Suppl. 3\penalty0 (2):\penalty0 5{\textendash}13,
+  1991.
+
+\bibitem[Swezey and Association(1942)]{Swezey1942}
+O.H. Swezey and Hawaiian Sugar~Planters' Association.
+\newblock \emph{{Insects of Guam I}}.
+\newblock Number no. 172 in Bernice P. Bishop Museum bulletin. Bernice P.
+  Bishop Museum, 1942.
+\newblock URL \url{http://books.google.com/books?id=ftcrAAAAMAAJ}.
+
+\bibitem[Swezey and Association(1946)]{Swezey1946}
+O.H. Swezey and Hawaiian Sugar~Planters' Association.
+\newblock \emph{{Insects of Guam II}}.
+\newblock Number no. 189 in Bernice P. Bishop Museum bulletin. Bernice P.
+  Bishop Museum, 1946.
+\newblock URL \url{http://books.google.com/books?id=o-wrAAAAMAAJ}.
+
+\bibitem[Wood(1960)]{Wood1960}
+Stephen~L. Wood.
+\newblock {Platypodidae and Scolytidae}.
+\newblock \emph{Insects of Micronesica}, 18\penalty0 (1):\penalty0 74, 1960.
+\newblock URL \url{http://hbs.bishopmuseum.org/pubs-online/pdf/iom18-1.pdf}.
+
+\bibitem[Zack et~al.(2009)Zack, Moore, and Miller]{Zack2009}
+R.~S. Zack, A.~Moore, and R.~H. Miller.
+\newblock {First record of \textit{Aphanisticus cochinchinae seminulum}
+  Obenberger (Coleoptera: Buprestidae) from Micronesia}.
+\newblock \emph{Coleopterists Bulletin}, 63:\penalty0 4, 2009.
+
+\end{thebibliography}
